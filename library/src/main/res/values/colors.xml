@@ -6,5 +6,5 @@
     <color name="progress_max_active">@color/white</color>
 
     <color name="gray_scale">#8affffff</color>
-    <color name="white">#fff</color>
+    <color name="white">#861700</color>
 </resources>
